@@ -1,3 +1,0 @@
-C:/Users/edto07/OneDrive - Lapplands/Dokument/Coding/ArtificalInteligence/build/CMakeFiles/SearchAlgorithm.dir
-C:/Users/edto07/OneDrive - Lapplands/Dokument/Coding/ArtificalInteligence/build/CMakeFiles/edit_cache.dir
-C:/Users/edto07/OneDrive - Lapplands/Dokument/Coding/ArtificalInteligence/build/CMakeFiles/rebuild_cache.dir
